@@ -1,5 +1,5 @@
 ## Version 1.0.4
- - Updated Bootstrap to v4.5
+ - Updated Bootstrap to v4.5 FRFR
 
 ## Version 1.0.3
  - [FIX] Typo in readme, added changelog, updated config.toml in exampleSite
